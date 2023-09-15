@@ -183,7 +183,7 @@ $this->need('header.php'); ?>
                         <div class="mdui-card-primary-title">
                             <?php
                             if (empty($this->options->DC_ProfileCardName)) {
-                                echo "博主";
+                                echo "梓里";
                             } else {
                                 $this->options->DC_ProfileCardName();
                             }
@@ -192,7 +192,7 @@ $this->need('header.php'); ?>
                         <div class="mdui-card-primary-subtitle">
                             <?php
                             if (empty($this->options->DC_ProfileCardIntroduction)) {
-                                echo "博主很懒,啥都没写";
+                                echo "我们可能实现小时候的梦，却无法回到那个爱做梦的小时候";
                             } else {
                                 $this->options->DC_ProfileCardIntroduction();
                             }
