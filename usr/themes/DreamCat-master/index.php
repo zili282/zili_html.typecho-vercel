@@ -176,7 +176,7 @@ $this->need('header.php'); ?>
                         <img src="<?php $this->options->DC_HeadImageUrl(); ?>" class="card-img-top" style="width: 100%"
                              alt="..."/>
                     <?php } else { ?>
-                        <img src="touxiang.png" class="card-img-top" style="width: 100%"
+                        <img src="./touxiang.png" class="card-img-top" style="width: 100%"
                              alt="..."/>
                     <?php } ?>
                     <div class="mdui-card-primary">
