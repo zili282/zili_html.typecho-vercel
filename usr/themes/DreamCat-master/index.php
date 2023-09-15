@@ -176,7 +176,7 @@ $this->need('header.php'); ?>
                         <img src="<?php $this->options->DC_HeadImageUrl(); ?>" class="card-img-top" style="width: 100%"
                              alt="..."/>
                     <?php } else { ?>
-                        <img src="https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E4%B8%87%E5%8F%B6&step_word=&hs=0&pn=9&spn=0&di=7249025186345779201&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2824405981%2C3540635938&os=293707069%2C3551909281&simid=2824405981%2C3540635938&adpicid=0&lpn=0&ln=1665&fr=&fmq=1694768746933_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fc-ssl.dtstatic.com%2Fuploads%2Fblog%2F202205%2F03%2F20220503151037_4716a.thumb.1000_0.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3D8nlbaabal0&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MTEsMCwzLDUsNCw4LDcsMSw2LDIsOQ%3D%3D" class="card-img-top" style="width: 100%"
+                        <img src="./touxiang.png" class="card-img-top" style="width: 100%"
                              alt="..."/>
                     <?php } ?>
                     <div class="mdui-card-primary">
